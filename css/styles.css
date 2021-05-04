@@ -1,0 +1,53 @@
+*   {
+    color: red;
+    background-color: blue;
+}   
+
+/**   {
+    color: red;
+    background-image: linear-gradient(to right, cyan, blue, cyan);
+}   */
+
+p   {
+    color: white;
+}
+
+h1  {
+    text-align: center;
+    color: black;
+}
+
+h2  {
+    text-align: center;
+}
+
+a  {
+    text-decoration: none;
+    color: white;
+}
+
+li  {
+    padding: 4px;
+    font-size: 1em;
+}
+
+code  {
+    color: white;
+}
+
+header {
+    padding: 20px;
+}
+
+footer p  {
+    color: white;
+}
+
+ul li   {
+    color: white;
+}
+
+marquee {
+    color: white;
+    font-size: 3em;
+}
